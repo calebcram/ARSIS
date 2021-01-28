@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9b63bd77c57834c43bd75d9b5706439c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial Black
+  fontNames:
+  - Arial Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 665e195c19626434aa1d62f975dcc56f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
